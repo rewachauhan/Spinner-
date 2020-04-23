@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CourseSpinner</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="Course">
+        	<item>Select Course</item>
+        	<item>Java</item>
+        	<item>Php</item>
+        	<item>Android</item>
+        	<item>Python</item>
+    </string-array>
+
+</resources>
